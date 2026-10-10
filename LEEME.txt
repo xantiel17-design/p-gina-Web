@@ -1,0 +1,32 @@
+LUMORA 0.6 — LEEME
+
+Incluye:
+- index.html: portada con enciclopedia, búsqueda web y Lumora Arcade (conserva el minijuego y favoritos locales).
+- articulos/: diez páginas HTML independientes para compartir, con índice, metadatos SEO y referencias externas.
+- criterios-editoriales.html: enfoque de fuentes, correcciones, derechos de recursos y privacidad de la demostración.
+
+CÓMO PROBARLA
+1. Extrae toda la carpeta Lumora_0_6.
+2. Abre index.html en un navegador moderno.
+3. Entra en cualquier tarjeta de la enciclopedia para abrir su página completa.
+4. Los archivos deben permanecer en su estructura de carpetas para que los enlaces funcionen.
+
+ANTES DE PUBLICAR
+- Elegir un dominio y un servicio de alojamiento estático.
+- Al elegir el dominio, añadir las URL canónicas y Open Graph definitivas a cada página, y completar el sitemap con direcciones públicas absolutas. Los artículos no incluyen dominios de ejemplo.
+- Cuando el dominio esté definido, generar sitemap.xml con las URL públicas absolutas y crear robots.txt que apunte al sitemap real.
+- Revisar la versión y los enlaces de las fuentes en la fecha de lanzamiento.
+- Configurar un canal de contacto propio para errores o propuestas de corrección.
+- Confirmar los derechos de cualquier imagen, video, fuente o recurso adicional antes de publicarlo.
+- Añadir una política de privacidad si más adelante se incorporan cuentas, formularios, publicidad o analítica.
+
+LIMITACIONES ACTUALES
+- Las búsquedas web abren Google, Bing o DuckDuckGo; Lumora no integra sus resultados dentro del sitio.
+- No hay base de datos, editor de artículos, cuentas, pagos ni panel de administración.
+- Los favoritos de los juegos se guardan solo en el navegador del usuario.
+- Las fechas de actualización en esta versión corresponden a la preparación de esta edición, no a una revisión editorial institucional externa.
+- El SEO ayuda a que los buscadores entiendan el sitio, pero no garantiza aparecer en los primeros puestos.
+
+Versión: 0.6
+Idioma: español
+Diseño: violeta y azul futurista
